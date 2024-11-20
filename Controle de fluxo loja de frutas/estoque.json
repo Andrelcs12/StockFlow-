@@ -1,0 +1,22 @@
+{
+    "Morango": {
+        "Nome": "Morango",
+        "Quantidade": 70,
+        "Preco": 3.5
+    },
+    "Maca": {
+        "Nome": "Maca",
+        "Quantidade": 30,
+        "Preco": 2.0
+    },
+    "Banana": {
+        "Nome": "Banana",
+        "Quantidade": 15,
+        "Preco": 1.2
+    },
+    "Abacaxi": {
+        "Nome": "Abacaxi",
+        "Quantidade": 10,
+        "Preco": 4.0
+    }
+}
